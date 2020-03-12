@@ -1,0 +1,9 @@
+package net.masterthought.cucumber.sorting;
+
+
+public enum SortingMethod {
+    NATURAL,
+    ALPHABETICAL,
+    // this item is only for testing
+    INVALID
+}
